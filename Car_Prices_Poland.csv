@@ -1,0 +1,42 @@
+,mark,model,generation_name,year,age,mileage,vol_engine,fuel,city,province,price
+0,opel,combo,gen-d-2011,2015,8,139568,1248,Diesel,Janki,Mazowieckie,35900
+1,opel,combo,gen-d-2011,2018,5,31991,1499,Diesel,Katowice,Śląskie,78501
+2,opel,combo,gen-d-2011,2015,8,278437,1598,Diesel,Brzeg,Opolskie,27000
+3,opel,combo,gen-d-2011,2016,7,47600,1248,Diesel,Korfantów,Opolskie,30800
+4,opel,combo,gen-d-2011,2014,9,103000,1400,CNG,Tarnowskie Góry,Śląskie,35900
+5,opel,combo,gen-d-2011,2017,6,121203,1598,Diesel,Warszawa,Mazowieckie,51900
+6,opel,combo,gen-d-2011,2017,6,119965,1248,Diesel,Wrocław,Dolnośląskie,44700
+7,opel,combo,gen-d-2011,2016,7,201658,1248,Diesel,Lublin,Lubelskie,29000
+8,opel,combo,gen-d-2011,2014,9,178666,1598,Diesel,Złotów,Wielkopolskie,28900
+9,opel,combo,gen-d-2011,2015,8,113000,1248,Diesel,Strzyżew,Mazowieckie,34900
+10,opel,combo,gen-d-2011,2012,11,237000,1598,Diesel,Elbląg,Warmińsko-mazurskie,24800
+11,opel,combo,gen-d-2011,2017,6,137000,1248,Diesel,Warszawa,Mazowieckie,39900
+12,opel,combo,gen-d-2011,2016,7,154000,1248,Diesel,Sosnowiec,Śląskie,35900
+13,opel,combo,gen-d-2011,2017,6,59339,1248,Diesel,Wrocław,Dolnośląskie,55300
+14,opel,combo,gen-d-2011,2016,7,137445,1598,Diesel,Opole,Opolskie,34700
+15,opel,combo,gen-d-2011,2016,7,141859,1248,Diesel,Katowice,Śląskie,39900
+16,opel,combo,gen-d-2011,2012,11,195000,1598,Diesel,Radom,Mazowieckie,25900
+17,opel,combo,gen-d-2011,2015,8,180000,1598,Diesel,Chmieleń,Dolnośląskie,32900
+18,opel,combo,gen-d-2011,2018,5,107515,1499,Diesel,Piaseczno,Mazowieckie,62000
+19,opel,combo,gen-d-2011,2017,6,149000,1598,Diesel,Góra Kalwaria,Mazowieckie,39852
+20,opel,combo,gen-d-2011,2017,6,101800,1248,Diesel,Legnica,Dolnośląskie,44990
+21,opel,combo,gen-d-2011,2012,11,164000,1598,Diesel,Wodzisław Śląski,Śląskie,15500
+22,opel,combo,gen-d-2011,2016,7,124000,1368,Gasoline,Wolbrom,Małopolskie,40900
+23,opel,combo,gen-d-2011,2018,5,91000,1600,Diesel,Warszawa,Mazowieckie,53600
+24,opel,combo,gen-d-2011,2016,7,155450,1598,Diesel,Pogorzela,Wielkopolskie,37500
+25,opel,combo,gen-d-2011,2015,8,125327,1598,Diesel,Zawiercie,Śląskie,39900
+26,opel,combo,gen-d-2011,2018,5,185000,1248,Diesel,Wyszków,Mazowieckie,39975
+27,opel,combo,gen-d-2011,2015,8,195000,1248,Diesel,Jasło,Podkarpackie,20999
+28,opel,combo,gen-d-2011,2015,8,135000,1248,Diesel,Kraków,Małopolskie,39000
+29,opel,combo,gen-d-2011,2018,5,135403,1499,Diesel,Piaseczno,Mazowieckie,62000
+30,opel,combo,gen-d-2011,2018,5,117320,1598,Diesel,Tarnowskie Góry,Śląskie,53874
+31,opel,combo,gen-d-2011,2016,7,133700,1598,Diesel,Stróża,Małopolskie,38900
+32,opel,combo,gen-d-2011,2015,8,139568,1248,Diesel,Janki,Mazowieckie,35900
+33,opel,combo,gen-d-2011,2018,5,31991,1499,Diesel,Katowice,Śląskie,78501
+34,opel,combo,gen-d-2011,2015,8,278437,1598,Diesel,Brzeg,Opolskie,27000
+35,opel,combo,gen-d-2011,2016,7,47600,1248,Diesel,Korfantów,Opolskie,30800
+36,opel,combo,gen-d-2011,2014,9,103000,1400,CNG,Tarnowskie Góry,Śląskie,35900
+37,opel,combo,gen-d-2011,2017,6,121203,1598,Diesel,Warszawa,Mazowieckie,51900
+38,opel,combo,gen-d-2011,2017,6,119965,1248,Diesel,Wrocław,Dolnośląskie,44700
+39,opel,combo,gen-d-2011,2016,7,201658,1248,Diesel,Lublin,Lubelskie,29000
+40,opel,combo,gen-d-2011,2014,9,178666,1598,Diesel,Złotów,Wielkopolskie,28900
